@@ -53,5 +53,5 @@ app.get('/bacheca', (req, res) =>{
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`my blog app listening on port ${port}`)
 });
